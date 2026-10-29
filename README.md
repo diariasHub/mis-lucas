@@ -1,5 +1,7 @@
 # Mis Lucas
 
+**App en línea:** https://diariashub.github.io/mis-lucas/
+
 Control mensual de gastos personales: cuentas fijas, créditos, gastos hormiga, ahorro e ingresos extra.
 Es una PWA instalable que funciona **sin internet** en el teléfono y en el computador, y sincroniza
 los cambios cuando vuelve la conexión.
